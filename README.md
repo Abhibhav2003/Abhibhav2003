@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 💡 Passionate about solving complex DSA problems and exploring data-driven insights.
 - 🔧 Currently working on low-level development projects like web servers and search engines.
@@ -15,9 +15,9 @@
 
 ---
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -39,7 +39,7 @@
   <img src="https://seeklogo.com/images/P/power-bi-logo-0FCEE8EC64-seeklogo.com.png" alt="Power BI" width="60"/>
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhibhav2003&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
