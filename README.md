@@ -39,7 +39,7 @@
   <img src="https://seeklogo.com/images/P/power-bi-logo-0FCEE8EC64-seeklogo.com.png" alt="Power BI" width="60"/>
 </p>
 
-### 🗄 Databases
+###  Databases
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
