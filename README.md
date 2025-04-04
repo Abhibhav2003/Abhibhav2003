@@ -36,7 +36,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/120px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/P/power-bi-logo-0FCEE8EC64-seeklogo.com.png" alt="Power BI" width="60"/>
 </p>
 
 ###  Databases
